@@ -1,6 +1,6 @@
-<template>
-	<footer class="text-center h-auto m-auto">
-		<div class="absolute bottom-0">
+<template >
+	<footer class=" text-center flex align-items-center justify-content-center">
+		<div >
 			<p id="c">Kortsi &copy; 2021</p>
 			<p id="lov">Coded with &#10084;&#65039;</p>
 		</div>
